@@ -60,6 +60,7 @@
 
 
 #Area of circle
-r=int(input("Enter radius"))
-A=3.14*(r**2)
-print(A)
+# r=int(input("Enter radius"))
+# A=3.14*(r**2)
+# print(A)
+print("Hiiii")
